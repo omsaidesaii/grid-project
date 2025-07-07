@@ -23,12 +23,12 @@ A sleek and responsive landing page built using **HTML5**, **CSS3**, and **CSS G
 
 1. Clone the repository:
    \`\`\`bash
-   git clone https://github.com/yourusername/grid-layout-fashion-project.git
+   git clone https://github.com/omsaidesaii/grid-project
    \`\`\`
 
 2. Navigate into the project folder:
    \`\`\`bash
-   cd grid-layout-fashion-project
+   cd grid-project
    \`\`\`
 
 3. Open \`index.html\` in your browser to view the project in action.
@@ -44,15 +44,15 @@ A sleek and responsive landing page built using **HTML5**, **CSS3**, and **CSS G
 To get started with this project on your local machine:
 
 \`\`\`bash
-git clone https://github.com/yourusername/grid-layout-fashion-project.git
-cd grid-layout-fashion-project
+git clone https://github.com/omsaidesaii/grid-project
+cd grid-project
 \`\`\`
 
 Then open \`index.html\` in any modern browser.
 
 ## 📌 LIVE DEMO
 
-Check it out here: [(https://grid-project-jade-chi.vercel.app/)] <!-- Replace with your actual link after deployment -->
+Check it out here: [https://grid-project-jade-chi.vercel.app/] <!-- Replace with your actual link after deployment -->
 
 ---
 EOF
